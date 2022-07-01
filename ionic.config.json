@@ -1,0 +1,7 @@
+{
+  "name": "dobre-chwile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,14 @@
+.container{
+    position: fixed;
+  display: flex;
+  width: 94%;
+  justify-content: center;
+  }
+  .card{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  }
+  .label {
+    background-color: #f9ebf2;
+}
